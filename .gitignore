@@ -1,1 +1,5 @@
-/venv/
+/venv/*
+
+/documents/*
+/model.py
+/faiss_index/*
